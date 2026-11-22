@@ -1,0 +1,6 @@
+{
+  "name": "90's Coffee Roasters",
+  "description": "Cafetería de especialidad, latte arte 3D, métodos de filtrado y vinos en Buenos Aires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
